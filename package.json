@@ -1,0 +1,12 @@
+{
+  "name": "missing-drawing",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "sass --watch css/style.scss css/style.css --style=expanded --no-source-map",
+    "build": "sass css/style.scss css/style.css --style=compressed --no-source-map"
+  },
+  "devDependencies": {
+    "sass": "1.80.0"
+  }
+}
