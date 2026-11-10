@@ -1,3 +1,7 @@
+최종 완성 전까지는, 깃에 style.css 파일만 업로드 
+
+
+디자인 작업 시에는 
 style.scss로 활용함. 
 
 package-lock.json / package.json에 해당 스타일 시트를 컴파일 하는 명령어가 포함 되어 있어. 
